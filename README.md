@@ -1,29 +1,29 @@
 # 响应级奖励等效词级奖励 - 在线增强学习中的数学原理
 
-\newcommand{\TrajectoryTheorem}{\textit{Trajectory Policy Gradient Theorem~}}
-\newcommand{\ZeroAssumption}{\textit{Zero-Reward Assumption }}
-% \newcommand{\deltaw}{\mathbf{W}}
-\newcommand{\E}{\mathbb{E}}
-\newcommand{\sixcdot}{\cdot\cdot\cdot\cdot\cdot\cdot}
-\newcommand{\threecdot}{\cdot\cdot\cdot}
-\newcommand{\Exp}{\mathbb{E}}
-\newcommand{\Var}{\mathbf{Var}}
-\newcommand{\Cov}{\mathbf{Cov}}
-\newcommand{\deltaw}{\Delta \mathbf{W}}
-\newcommand{\Path}{\mathbf{W}}
-\newcommand{\Patht}{\mathbf{W}^{(t)}}
-\newcommand{\Pathk}{\mathbf{W}^{(k)}}
-\newcommand{\PathtPlusOne}{\mathbf{W}^{(t+1)}}
-\newcommand{\PathT}{\mathbf{W}^T}
-\newcommand{\PolicyProb}{\pi_{\theta}}
-\newcommand{\PolicyProbt}{\pi(w_t|\Path_{0,t-1})}
-\newcommand{\Prompt}{w_0}
-\newcommand{\VFunc}{V_{\PolicyProb}}
-\newcommand{\QFunc}{Q_{\PolicyProb}}
-\newcommand{\GFunc}[1]{G(#1)}
-\newcommand{\RM}{RM}
-\newcommand{\Eqn}[1]{Eqn. (#1)}
-\newcommand{\todo}[1]{({\color{red} TODO: #1})}
+$$\newcommand{\TrajectoryTheorem}{\textit{Trajectory Policy Gradient Theorem~}}$$
+$$\newcommand{\ZeroAssumption}{\textit{Zero-Reward Assumption }}$$
+$$% \newcommand{\deltaw}{\mathbf{W}}$$
+$$\newcommand{\E}{\mathbb{E}}$$
+$$\newcommand{\sixcdot}{\cdot\cdot\cdot\cdot\cdot\cdot}$$
+$$\newcommand{\threecdot}{\cdot\cdot\cdot}$$
+$$\newcommand{\Exp}{\mathbb{E}}$$
+$$\newcommand{\Var}{\mathbf{Var}}$$
+$$\newcommand{\Cov}{\mathbf{Cov}}$$
+$$\newcommand{\deltaw}{\Delta \mathbf{W}}$$
+$$\newcommand{\Path}{\mathbf{W}}$$
+$$\newcommand{\Patht}{\mathbf{W}^{(t)}}$$
+$$\newcommand{\Pathk}{\mathbf{W}^{(k)}}$$
+$$\newcommand{\PathtPlusOne}{\mathbf{W}^{(t+1)}}$$
+$$\newcommand{\PathT}{\mathbf{W}^T}$$
+$$\newcommand{\PolicyProb}{\pi_{\theta}}$$
+$$\newcommand{\PolicyProbt}{\pi(w_t|\Path_{0,t-1})}$$
+$$\newcommand{\Prompt}{w_0}$$
+$$\newcommand{\VFunc}{V_{\PolicyProb}}$$
+$$\newcommand{\QFunc}{Q_{\PolicyProb}}$$
+$$\newcommand{\GFunc}[1]{G(#1)}$$
+$$\newcommand{\RM}{RM}$$
+$$\newcommand{\Eqn}[1]{Eqn. (#1)}$$
+$$\newcommand{\todo}[1]{({\color{red} TODO: #1})}$$
 
 ## 总结
 
