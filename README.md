@@ -54,7 +54,7 @@ ogic reasoning tasks where response-level reward is a scalar. What about logic r
 
 Our work derives the theoretical difference.
 
-## 基本原理
+## 基本原理 Fundamental Principles
 
 Please read our articles ([zh](README.zh.pdf), [en](README.en.pdf)) and [paper 2025](https://arxiv.org/pdf/2506.02553);
 
