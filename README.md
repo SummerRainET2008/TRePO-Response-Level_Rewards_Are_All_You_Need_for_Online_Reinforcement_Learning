@@ -3,7 +3,7 @@
 
 ## 总结 Summary
 
-这个工作从基本公式推导出发，主要回答几个在线增强学习中的典型现象和问题，**中间token零奖励假设**究竟对训练算法有什么样的影响？基于这个假设的算法和使用精确的*词级奖励*的算法有什么本质区别？如火如荼的GRPO、RLOO、ReMax等REINFORCE风格的算法和PPO算法在**理论建模能力**上有什么区别？奖励衰减$\gamma$有什么影响？
+这个工作从基本公式推导出发，主要回答几个在线增强学习中的典型现象和问题，**中间token零奖励假设**究竟对训练算法有什么样的影响？基于这个假设的算法和使用精确的*词级奖励*的算法有什么本质区别？如火如荼的GRPO、RLOO、ReMax等REINFORCE风格的算法和PPO算法在**理论建模能力**上有什么区别？奖励衰减 $\gamma$ 有什么影响？
 
 Starting from first-principles derivations, this work addresses several common questions in online RL: what impact does the **zero-reward assumption for intermediate tokens** have on training algorithms? What is the essential difference between algorithms built on this assumption and systems trained with explicit **token-level rewards**? What are the differences in **theoretical modeling capacity** between REINFORCE-style methods such as GRPO, RLOO, and ReMax, and PPO? What role does reward discounting $\gamma$ play?
 
